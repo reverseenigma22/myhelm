@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aditya:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-22T06:33:41.979800917Z"
+    description: A Helm chart for Kubernetes
+    digest: 1950433c6a0c1a3a7c1416f3ba54306d64b5fa765d2fdfa1fd477a964fc9abd5
+    name: aditya
+    type: application
+    urls:
+    - aditya-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-22T06:33:41.979362877Z"
